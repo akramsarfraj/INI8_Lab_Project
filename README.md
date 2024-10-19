@@ -5,7 +5,7 @@ Open "registration-backend" project with your favorite ide (IntelliJ IDEA,Eclips
 
 Update the project (To add the dependencies)
 
-![Uploading Screenshot (1).png…]()
+![Uploading update project.png…]()
 
 
 Go to RegistrationBackendApplication.class file  present in folder - src/main/com/ini8_lab/registrationbackend
