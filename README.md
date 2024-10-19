@@ -18,3 +18,4 @@ open terminal inside "registration-frontend"
 Type npm install ( to add dependencies)
 ## To run type npm start 
 
+![INI8lab_c](https://github.com/user-attachments/assets/e58f8e0a-9122-43cc-a87a-c99df6240a14)
