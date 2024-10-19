@@ -5,11 +5,10 @@
 
 ## Open "registration-backend" project with your ide (IntelliJ IDEA,Eclipse)
 
-![update project](https://github.com/user-attachments/assets/e1cc414b-6059-4c69-811f-189ca03ac19e)
-
 
 Update the project (left click on project folder and Goto  maven section and click in Update folder or Update project)
 
+![update project](https://github.com/user-attachments/assets/e1cc414b-6059-4c69-811f-189ca03ac19e)
 
 Go to RegistrationBackendApplication.class      file  present in folder -  src/main/com/ini8_lab/registrationbackend
  
