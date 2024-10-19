@@ -3,7 +3,7 @@
 # Steps to run backend 
 
 
-## Open "registration-backend" project with your favorite ide (IntelliJ IDEA,Eclipse)
+## Open "registration-backend" project with your ide (IntelliJ IDEA,Eclipse)
 
 Update the project (left click on project folder and Goto  maven section and click in Update folder or Update project)
 
